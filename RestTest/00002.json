@@ -1,0 +1,146 @@
+{
+    "Version": "1.3",
+    "TranDtls": {
+        "TaxSch": "GST",
+        "SupTyp": "B2B",
+        "RegRev": "Y",
+        "EcmGstin": null,
+        "IgstOnIntra": "N"
+    },
+    "DocDtls": {
+        "Typ": "INV",
+        "No": "AVI/2122/00002",
+        "Dt": "02/04/2021"
+    },
+    "BuyerDtls": {
+        "GstIn": "27AAACU4276H1Z6",
+        "LglNm": "UMASONS AUTO COMP.PVT.LTD.",
+        "TrdNm": "UMASONS AUTO COMP.PVT.LTD.",
+        "Pos": "27",
+        "Addr1": "B-34,MIDC,WALUJ",
+        "Addr2": null,
+        "Loc": "AURANAGABAD",
+        "Pin": 431136,
+        "Stcd": "27",
+        "Ph": "null",
+        "Em": null
+    },
+    "SellerDtls": {
+        "Gstin": "AAPCS8797LEM001",
+        "LglNm": "BRAHM PRECISION MATERIALS PVT.LTD.",
+        "TrdNm": "BRAHM PRECISION MATERIALS PVT.LTD.",
+        "Addr1": "K-221,MIDC,Waluj.",
+        "Addr2": "Aurangabad.",
+        "Loc": "Aurangabad",
+        "Pin": 431003,
+        "Stcd": "27",
+        "Ph": "0240-2555747",
+        "Em": "sanshuindustrieswaluj@gmail.com"
+    },
+    "DispDtls": {
+        "Nm": "UMASONS AUTO COMP.PVT.LTD.",
+        "Addr1": "B-34,MIDC,WALUJ",
+        "Addr2": null,
+        "Loc": "AURANAGABAD",
+        "Pin": "431136",
+        "Stcd": "27"
+    },
+    "ShipDtls": null,
+    "EwbDtls": {
+        "TransId": null,
+        "TransName": null,
+        "TransMode": "1",
+        "Distance": 2,
+        "TransDocNo": null,
+        "TransDocDt": "02/04/2021",
+        "VehNo": "MH20EL0027",
+        "VehType": "R"
+    },
+    "ExpDtls": null,
+    "ItemList": [
+        {
+            "AttribDtls": [
+                {
+                    "Nm": "668BRACKET PLATINA B104D SA CHAIN CASE 3",
+                    "Val": null
+                }
+            ],
+            "PrdSlNo": "2010000668",
+            "OrgCntry": null,
+            "OrdLineRef": "10",
+            "TotItemVal": 2900.35,
+            "OthChrg": 0,
+            "StateCesNonAdvlAmt": 0,
+            "StateCesAmt": 0,
+            "StateCesRt": 0,
+            "CesNonAdvlAmt": 0,
+            "CesAmt": 0,
+            "CesRt": 0,
+            "SgstAmt": 317.23,
+            "CgstAmt": 317.23,
+            "IgstAmt": 0.00,
+            "Qty": 910.000,
+            "AssAmt": 2265.90,
+            "PreTaxVal": 0,
+            "Discount": 0,
+            "TotAmt": 2265.90,
+            "UnitPrice": 2.490,
+            "Unit": "NOS",
+            "FreeQty": 0,
+            "GstRt": 28,
+            "Barcde": null,
+            "BchDtls": null,
+            "HsnCd": "87141090",
+            "IsServc": "N",
+            "PrdDesc": "668BRACKET PLATINA B104D SA CHAIN CASE 3",
+            "SlNo": "1"
+        }
+    ],
+    "ValDtls": {
+        "AssVal": 2265.90,
+        "CgstVal": 317.23,
+        "SgstVal": 317.23,
+        "IgstVal": 0.00,
+        "CesVal": 0,
+        "StCesVal": 0,
+        "RndOffAmt": 0,
+        "TotlInvVal": 2900.35,
+        "TotInvValFc": 0,
+        "Discount": 0,
+        "OthChrg": 0
+    },
+    "PayDtls": null,
+    "RefDtls": {
+        "InvRm": null,
+        "PreDocDtls": [
+            {
+                "InvNo": "AVI/2122/00001",
+                "InvDt": "01/04/2021",
+                "OthRefNo": null
+            }
+        ],
+        "ContrDtls": [
+            {
+                "RecAdvDt": null,
+                "RecAdvRefr": null,
+                "TendRefr": null,
+                "ContrRefr": null,
+                "ExtRefr": null,
+                "ProjRefr": null,
+                "PORefr": "4100000645",
+                "PORefDt": "13/03/2021"
+            }
+        ],
+        "DocPerdDtls": {
+            "InvStDt": null,
+            "InvEndDt": null
+        }
+    },
+    "AddlDocDtls": [
+        {
+            "url": "https://einv-apisandbox.nic.in",
+            "Docs": null,
+            "Info": null
+        }
+    ]
+}
